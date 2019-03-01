@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551164653 source:/home/ccsg/CWorkPlace/testredis/main.c
+	<stdio.h>
+	<hiredis/hiredis.h>
+
